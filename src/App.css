@@ -1,0 +1,35 @@
+.center
+{
+  padding: 9em 0em;
+  background-color: #212529;
+  font-size: 10px;
+}
+.comp
+{
+  width:30px;
+  height:30px;
+}
+.down
+{
+  margin-top: 100px;
+  height: 70px;
+  background-color: #212529;
+}
+.button1
+{
+  background-color: aqua;
+}
+
+.final
+{
+  
+  margin-left: 25%;
+  width: 50%;
+  text-decoration: aqua;
+  margin-top: 200px;
+  border: solid black;
+}
+body
+{
+ 
+}
